@@ -1,0 +1,29 @@
+{
+  "props": [
+    {
+      "name": "heading-red",
+      "type": "color",
+      "value": "#504D4D",
+      "category": "color",
+      "meta": {
+        "projectId": "owrZgSs6uiSoxpqumpwP7X",
+        "id": "5c6doO4axGwi"
+      }
+    },
+    {
+      "name": "white",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "owrZgSs6uiSoxpqumpwP7X",
+        "id": "xGE4V1yopcrH"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
